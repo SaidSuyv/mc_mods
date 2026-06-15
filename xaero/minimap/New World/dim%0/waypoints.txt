@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Entrada end portal:E:-4893:74:2972:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:End Portal:E:-4844:67:2996:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pequeña playa:P:-3349:67:1015:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Village:V:-3760:72:1344:14:false:0:gui.xaero_default:false:0:0:false
